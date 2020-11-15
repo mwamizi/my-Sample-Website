@@ -1,0 +1,33 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Montserrat";
+  height: 90vh;
+  background-color: #6559eb;
+}
+
+.container {
+  text-align: center;
+}
+
+h1 {
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: 400;
+}
+ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+li {
+  list-style: none;
+  margin-right: 30px;
+  text-align: center;
+}
+a {
+  color: #fff;
+  font-size: 36px;
+}
